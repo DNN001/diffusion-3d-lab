@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Diffusion 3D Lab",
+    "description": "把 DDPM 摊在同一个可交互的三维场景里：一条跑道是前向加噪链，另一条是反向去噪链，中间是预测 ε 的 U-Net，整个过程逐步动画演示。"
+  }
+}

@@ -1,0 +1,3 @@
+- insert:
+    - id: diffusion-3d-lab
+      name: '@local/diffusion-3d-lab'

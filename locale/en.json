@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Diffusion 3D Lab",
+    "description": "Lays a DDPM out in one interactive 3D scene: the forward noising chain on one lane, the reverse denoising chain on the other, and the U-Net that predicts epsilon between them, animated step by step."
+  }
+}
